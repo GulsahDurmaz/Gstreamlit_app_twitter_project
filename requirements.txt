@@ -1,0 +1,9 @@
+pandas
+gdown
+streamlit
+# numpy
+matplotlib
+seaborn
+plotly
+# pycountry
+# plost
